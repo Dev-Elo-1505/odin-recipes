@@ -1,2 +1,2 @@
 # odin-recipes
-This project from the tutorial by "The Odin Project"
+This project was inspired by the tutorial from "The Odin Project".
